@@ -1,0 +1,20 @@
+label{
+    color :rgb(29, 207, 89);
+}
+
+#checkbox{ 
+    color:violet;
+    font-family: cursive;
+}
+
+.sure{
+    color: blue !important;
+    font-weight: 600;
+    background-color: burlywood;
+    font-style: italic;
+    margin: 40px 30px 45px 50px;
+}
+
+.fontType{
+    font-size: 30px !important;
+}
