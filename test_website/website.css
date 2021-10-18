@@ -84,3 +84,21 @@ img{
     color: #333;
     padding: 0 2em 0 2em;
 }
+#section-4{
+    display: flex;
+}
+#section-4 .box{
+    padding:1em;
+}
+#section-4 .box:first-child{
+    background: #2690d4;
+}
+#footer{
+    background: black;
+    color: white;
+    display: flex;
+    padding: 2em;
+}
+#footer div:last-child{
+    margin-left: auto;
+}
